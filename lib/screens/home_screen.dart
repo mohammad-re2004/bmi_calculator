@@ -142,7 +142,7 @@ class _HomeScreenState extends State<HomeScreen> {
               height: 15,
             ),
             LeftShape(
-              width: 150,
+              width: 151,
             ),
           ],
         ),
