@@ -28,12 +28,6 @@ BMI = weight (kg) / (height (m) × height (m))
 -   Dart
 -   Material UI
 
-## 📸 Screenshots
-
-Add screenshots here to make your project look more professional.
-
-screenshots/home.png\
-screenshots/result.png
 
 ## 🚀 Getting Started
 
