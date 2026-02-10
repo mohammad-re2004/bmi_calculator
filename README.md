@@ -14,7 +14,6 @@ category result.
     -   Underweight
     -   Normal
     -   Overweight
-    -   Obese
 -   📱 Clean and responsive UI
 -   🚀 Cross-platform support (Android & iOS)
 
