@@ -25,7 +25,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 -   Flutter
 -   Dart
--   Material UI
+-   Material UI.
 
 
 ## 🚀 Getting Started
