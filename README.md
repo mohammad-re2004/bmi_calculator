@@ -34,7 +34,7 @@ BMI = weight (kg) / (height (m) × height (m))
 
 -   Flutter SDK
 -   Android Studio or VS Code
--   Android Emulator or Physical Device
+-   Android Emulator or Physical Device.
 
 ### Installation
 
