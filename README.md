@@ -2,7 +2,7 @@
 
 A simple and responsive **BMI (Body Mass Index) Calculator** mobile
 application built using **Flutter**. This app allows users to calculate
-their BMI based on height and weight, and provides a clear health
+their BMI based on height and weight,and provides a clear health
 category result.
 
 
