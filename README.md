@@ -19,6 +19,7 @@ category result.
 
 ## 🧠 BMI Formula
 
+
 BMI = weight (kg) / (height (m) × height (m))
 
 ## 🛠️ Tech Stack
