@@ -60,8 +60,7 @@ lib/\
 -   Health tips based on BMI
 
 ## 👨‍💻 Author
-
-Your Name\
+M.E
 Flutter Developer
 
 ## 📄 License
